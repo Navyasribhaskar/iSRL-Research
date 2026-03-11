@@ -110,5 +110,7 @@ cited this study
 Example:
 Mustard allergy has been documented in Indian
 Populations (Kumar et al., 2017)> citation
+
 cite> mentioned
+
 Cited By 62.
