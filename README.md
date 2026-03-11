@@ -3,10 +3,10 @@ Radhey Radhey
 Sub-part E: World wide allergen burden-which substances affect the most people.
 
 What this sub-part needs?
->Published epidemiological data on Common tood allergies mosty Southeast population data.
->Whether FSSAI declares list (Indian's food allergen labelling rules)
+--Published epidemiological data on Common tood allergies mosty Southeast population data.
+--Whether FSSAI declares list (Indian's food allergen labelling rules)
 ›Are these allergens chosen based on what causes the most allergies in India? or 
->Are they simply copied from international allergen list used in other countries?
+--Are they simply copied from international allergen list used in other countries?
 [Prevalence] = how common smtg is
 
 Primary sources required:
@@ -19,8 +19,8 @@ Questions to answer:
 1)Which food substance →highest allergy prevalence that affect global population based on Published epidemiological data.
 Cite the specific studies & their reported figures
 --exact research paper that support my statement which includes Author names
-> Year of publication
-> Journal of source
+-- Year of publication
+-- Journal of source
 --Number/statistics reported in those studies.
 
 2) Which substances (allergens) appear in South Asia India-specific epidemiological literature
@@ -79,26 +79,26 @@ Allergen declaration requirements
 • Codex Alimentavious Commission - provides global food safety standards.
 
 5)Legal & Court documents.
->Indian Kannon
+--Indian Kannon
 Search as:
 •Court cases involving food safety
 .Litigation involving food labeling
 
 6)Policy & Regulatory analysis propers
-> WHO
+-- WHO
 • Food & Agriculture Organisation
 
 7)Academic journal databases
->Science Direct
-> JSTOR
+--Science Direct
+-- JSTOR
 •SpringerLink
  These contains peer-reviewed
 Scientific journals.
 
 Cite:  giving credit to the original source of info
-> mention the source of information
+-- mention the source of information
 Citation: Actual reference to the source
->Information that identifies the source
+--Information that identifies the source
 Cited By - Ex: Cited by 48
 ie.., 48 other research papers used
 cited this study
